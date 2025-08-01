@@ -1,5 +1,5 @@
-#You can contact me using this email: vuongminhleofficial@gmail.com
-#University of Information Technology – UIT
+You can contact me using this email: vuongminhleofficial@gmail.com
+University of Information Technology – UIT
 Tên SV: Lê Minh Vương
 Khoá: K13 (2018)
 MSSV: 18521678

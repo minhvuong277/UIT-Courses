@@ -1,6 +1,12 @@
-You can contact me using this email: vuongminhleofficial@gmail.com
-University of Information Technology – UIT
-MSSV: 18521678 K13 (2018)
+#You can contact me using this email: vuongminhleofficial@gmail.com
+#University of Information Technology – UIT
+Tên SV: Lê Minh Vương
+Khoá: K13 (2018)
+MSSV: 18521678
+Khoa: Công Nghệ Phần Mềm
+Ngành: Kỹ Thuật Phần Mềm
+
+Đáp án, lời giải bài tập: adfoc.us/873189111426160
 
 | Mã môn học  | Tên môn học | Giảng viên |
 | ------------- | ------------- | ---------- |
